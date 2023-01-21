@@ -14,7 +14,7 @@ driver.get('https://www.amazon.com/?tag=amazusnavi-20&hvadid=381823327672&hvpos=
 
 
 Search_Button = driver.find_element(By.XPATH, '//*[@id="twotabsearchtextbox"]')
-# Change to string to any product you want to automatically search
+# Change the string to any product you want to automatically search
 Search_Button.send_keys('Graphics Card')
 
 # Clicking the Search Button
