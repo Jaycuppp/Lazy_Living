@@ -22,4 +22,4 @@ Search_Button_Click = driver.find_element(By.XPATH, '//*[@id="nav-search-submit-
 Search_Button_Click.click()
 
 # Extra safety measure for how long you want the script to be running
-time.sleep(999)
+time.sleep(3600)
