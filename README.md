@@ -1,6 +1,9 @@
 # Lazy Living Coding Series
 Automated Computer Script Codes in Python 🐍 for people who are lazy such as myself
 
+My chosen Automated Script Creation method. 
+
+
 Important Google Web Browsing Requirement:
   1) Download the Google Chrome web driver that matches the correct version of your Google Chrome in order to Automate your Google web browsing. Web Drivers Link: https://chromedriver.chromium.org/downloads
   2) Save the driver and write down the exact file path of the driver as it is needed in order for your computer/device to automatically use Google Chrome
