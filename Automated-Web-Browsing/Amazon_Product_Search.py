@@ -1,5 +1,5 @@
 # Importing the required Libraries to run the automated task
-import selenium
+from selenium import *
 import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
