@@ -63,6 +63,4 @@ Hakob Keshishyan
 
 GitHub: @Jaycuppp
 
-LinkedIn: [Your LinkedIn Link]
-
 [!WARNING] Safety Note: Desktop automation scripts take control of your mouse and keyboard. Always ensure the "Fail-Safe" (moving the mouse to a corner) is enabled before running.
