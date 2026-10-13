@@ -13,7 +13,7 @@ class Logics():
                              CellCx, CellCy, NewStateEntryX, NewStateEntryY, JurrisX, JurrisY, CellBx,
                              CellBy, NewCityEntryX, NewCityEntryY, GeneralHeadX, GeneralHeady):
 
-        # Lets See If The Entire Operation Runs Times
+        # LoopAmount = Total Amount of Zip Codes That Need To Be Added To The Solar Eclipse System
         for iter in range (0, LoopAmount):
 
             # Opening up a New Zip Code Entry Menu
@@ -109,7 +109,7 @@ class EclipseAutomations(Logics):
         JurisCityEntryX , JurisCityEntryY = 567 , 328 # XY Cords for the Jurrisdiciton Override City Entry (Copy Paste From Excel)
         # CurrZipCodeEntryX , CurrZipCodeEntryY = 650 , 233
 
-        # Change this Number If More / Less Zip Codes Need To Be Added
+        # Total Amount Of Zip Codes That Need To Be Added To The System
         Loop_Amount = 20
 
         self.NewZipCodeEntryLogic(Loop_Amount, NewButtX, NewButtY, XCellA, YCellA, NewZipX, NewZipY, XCellC, 
